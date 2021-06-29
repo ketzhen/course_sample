@@ -1,0 +1,61 @@
+{
+  "uid" : "ff11f071ace10406",
+  "name" : "test_open_profile",
+  "fullName" : "tests.test_header.TestHeader#test_open_profile",
+  "historyId" : "1504a80a9b585c052f4ff9cb165e31aa",
+  "time" : {
+    "start" : 1624954701204,
+    "stop" : 1624954701204,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusMessage" : "Skipped: unconditional skip",
+  "statusTrace" : "('/home/runner/work/course_sample/course_sample/tests/test_header.py', 17, 'Skipped: unconditional skip')",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.skip"
+  }, {
+    "name" : "parentSuite",
+    "value" : "tests"
+  }, {
+    "name" : "suite",
+    "value" : "test_header"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestHeader"
+  }, {
+    "name" : "host",
+    "value" : "fv-az74-985"
+  }, {
+    "name" : "thread",
+    "value" : "3837-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.test_header"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.skip" ]
+  },
+  "source" : "ff11f071ace10406.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,56 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "tests",
+    "children" : [ {
+      "name" : "test_auth",
+      "children" : [ {
+        "name" : "test_login_success[Project_1-Projectmanager1]",
+        "uid" : "b384c86cdfbfbb4d",
+        "parentUid" : "3568597bd520ef3594a738bbba4d1464",
+        "status" : "passed",
+        "time" : {
+          "start" : 1624954694020,
+          "stop" : 1624954694852,
+          "duration" : 832
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'Project_1'", "'Projectmanager1'" ]
+      }, {
+        "name" : "test_login_success[QA_tester_1-Tester2019!]",
+        "uid" : "8f1ebbaac70c02e7",
+        "parentUid" : "3568597bd520ef3594a738bbba4d1464",
+        "status" : "passed",
+        "time" : {
+          "start" : 1624954700318,
+          "stop" : 1624954701149,
+          "duration" : 831
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'QA_tester_1'", "'Tester2019!'" ]
+      } ],
+      "uid" : "3568597bd520ef3594a738bbba4d1464"
+    }, {
+      "name" : "test_header",
+      "children" : [ {
+        "name" : "test_open_profile",
+        "uid" : "ff11f071ace10406",
+        "parentUid" : "ff0350d89631ed2f1331bf3399d2a614",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1624954701204,
+          "stop" : 1624954701204,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ff0350d89631ed2f1331bf3399d2a614"
+    } ],
+    "uid" : "bf49149a3821e34f7608bb6885d52868"
+  } ],
+  "name" : "packages"
+}

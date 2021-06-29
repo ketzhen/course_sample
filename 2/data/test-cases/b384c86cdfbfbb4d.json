@@ -1,0 +1,107 @@
+{
+  "uid" : "b384c86cdfbfbb4d",
+  "name" : "test_login_success[Project_1-Projectmanager1]",
+  "fullName" : "tests.test_auth.TestAuth#test_login_success",
+  "historyId" : "a23686b2313ac88b58b201e69e5f6b3f",
+  "time" : {
+    "start" : 1624954694020,
+    "stop" : 1624954694852,
+    "duration" : 832
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "browser",
+    "time" : {
+      "start" : 1624954688733,
+      "stop" : 1624954690432,
+      "duration" : 1699
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "setup",
+    "time" : {
+      "start" : 1624954690432,
+      "stop" : 1624954694019,
+      "duration" : 3587
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "browser::0",
+    "time" : {
+      "start" : 1624954694853,
+      "stop" : 1624954694908,
+      "duration" : 55
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "tests"
+  }, {
+    "name" : "suite",
+    "value" : "test_auth"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestAuth"
+  }, {
+    "name" : "host",
+    "value" : "fv-az74-985"
+  }, {
+    "name" : "thread",
+    "value" : "3837-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.test_auth"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "login",
+    "value" : "'Project_1'"
+  }, {
+    "name" : "password",
+    "value" : "'Projectmanager1'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b384c86cdfbfbb4d.json",
+  "parameterValues" : [ "'Project_1'", "'Projectmanager1'" ]
+}

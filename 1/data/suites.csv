@@ -1,4 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Tue Jun 29 08:14:06 GMT 2021","Tue Jun 29 08:14:07 GMT 2021","753","tests","test_auth","TestAuth","","","test_login_success[QA_tester_1-Tester2019!]",""
-"broken","Tue Jun 29 08:14:12 GMT 2021","Tue Jun 29 08:14:12 GMT 2021","558","tests","test_header","TestHeader","","","test_open_profile",""
-"passed","Tue Jun 29 08:14:00 GMT 2021","Tue Jun 29 08:14:01 GMT 2021","760","tests","test_auth","TestAuth","","","test_login_success[Project_1-Projectmanager1]",""

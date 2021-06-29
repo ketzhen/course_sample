@@ -1,0 +1,63 @@
+{
+  "a23686b2313ac88b58b201e69e5f6b3f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7057d7ed1d9fdef",
+      "reportUrl" : "https://ketzhen.github.io/course_sample/1//#testresult/7057d7ed1d9fdef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624954440945,
+        "stop" : 1624954441705,
+        "duration" : 760
+      }
+    } ]
+  },
+  "d8b54c7bc4d646766873197eeccd2e24" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b69d91e22b6ca261",
+      "reportUrl" : "https://ketzhen.github.io/course_sample/1//#testresult/b69d91e22b6ca261",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624954446455,
+        "stop" : 1624954447208,
+        "duration" : 753
+      }
+    } ]
+  },
+  "1504a80a9b585c052f4ff9cb165e31aa" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b1cf89f2f24c100",
+      "reportUrl" : "https://ketzhen.github.io/course_sample/1//#testresult/b1cf89f2f24c100",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.StaleElementReferenceException: Message: stale element reference: element is not attached to the page document\n  (Session info: chrome=91.0.4472.106)",
+      "time" : {
+        "start" : 1624954452182,
+        "stop" : 1624954452740,
+        "duration" : 558
+      }
+    } ]
+  }
+}

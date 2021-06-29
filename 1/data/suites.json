@@ -1,0 +1,64 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "tests",
+    "children" : [ {
+      "name" : "test_auth",
+      "children" : [ {
+        "name" : "TestAuth",
+        "children" : [ {
+          "name" : "test_login_success[Project_1-Projectmanager1]",
+          "uid" : "7057d7ed1d9fdef",
+          "parentUid" : "21e7c4517b31176fa88806dd2aafbcce",
+          "status" : "passed",
+          "time" : {
+            "start" : 1624954440945,
+            "stop" : 1624954441705,
+            "duration" : 760
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'Project_1'", "'Projectmanager1'" ]
+        }, {
+          "name" : "test_login_success[QA_tester_1-Tester2019!]",
+          "uid" : "b69d91e22b6ca261",
+          "parentUid" : "21e7c4517b31176fa88806dd2aafbcce",
+          "status" : "passed",
+          "time" : {
+            "start" : 1624954446455,
+            "stop" : 1624954447208,
+            "duration" : 753
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'QA_tester_1'", "'Tester2019!'" ]
+        } ],
+        "uid" : "21e7c4517b31176fa88806dd2aafbcce"
+      } ],
+      "uid" : "2d60e98e08cb0ddbe5ae65b440a9833c"
+    }, {
+      "name" : "test_header",
+      "children" : [ {
+        "name" : "TestHeader",
+        "children" : [ {
+          "name" : "test_open_profile",
+          "uid" : "b1cf89f2f24c100",
+          "parentUid" : "a0a9deb3fd43e98b20a730acaa7c5a1f",
+          "status" : "broken",
+          "time" : {
+            "start" : 1624954452182,
+            "stop" : 1624954452740,
+            "duration" : 558
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "a0a9deb3fd43e98b20a730acaa7c5a1f"
+      } ],
+      "uid" : "ae4ee5a4c7dfd8a1609ce4a5d4daa2f8"
+    } ],
+    "uid" : "e387fa4bb326b54ea8c19c2822aba374"
+  } ],
+  "name" : "suites"
+}

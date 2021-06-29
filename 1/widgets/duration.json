@@ -1,0 +1,31 @@
+[ {
+  "uid" : "b69d91e22b6ca261",
+  "name" : "test_login_success[QA_tester_1-Tester2019!]",
+  "time" : {
+    "start" : 1624954446455,
+    "stop" : 1624954447208,
+    "duration" : 753
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b1cf89f2f24c100",
+  "name" : "test_open_profile",
+  "time" : {
+    "start" : 1624954452182,
+    "stop" : 1624954452740,
+    "duration" : 558
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7057d7ed1d9fdef",
+  "name" : "test_login_success[Project_1-Projectmanager1]",
+  "time" : {
+    "start" : 1624954440945,
+    "stop" : 1624954441705,
+    "duration" : 760
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

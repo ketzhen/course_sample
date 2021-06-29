@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://ketzhen.github.io/course_sample",
+  "buildOrder" : 1,
+  "buildName" : "GitHub Actions Run #981916965",
+  "buildUrl" : "https://github.com/ketzhen/course_sample/actions/runs/981916965",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://ketzhen.github.io/course_sample/1/"
+} ]

@@ -5,6 +5,7 @@ import config
 import pytest
 
 
+@pytest.mark.skip
 class TestHeader:
     @pytest.fixture(scope="function", autouse=True)
     def setup(self, browser):
